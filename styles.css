@@ -1,0 +1,11 @@
+.box {
+    margin: auto;
+    font-size: larger;
+}
+
+.sol{
+    text-align: right;
+    font-weight: 1;
+    padding-right: 2px;
+}
+
